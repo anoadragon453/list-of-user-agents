@@ -576,17 +576,3 @@ WDG_Validator/1.6.2
 grub-client-1.5.3; (grub-client-1.5.3; Crawl your own stuff with http://grub.org)
 Microsoft URL Control - 6.00.8862
 SearchExpress
-
-
-
-
-
-
-
-
-
-
-
-
-
-
